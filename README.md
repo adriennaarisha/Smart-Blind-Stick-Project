@@ -34,6 +34,5 @@ A smart assistive walking stick designed for visually impaired individuals. The 
 ## Project Outcome
 The Smart Blind Stick enhances mobility and safety for visually impaired users by providing obstacle detection and emergency communication capabilities. The integration of Telegram alerts enables caregivers and family members to receive immediate notifications during emergencies.
 
-Author
-
+## Author
 Adrienna Arisha Md Idris
